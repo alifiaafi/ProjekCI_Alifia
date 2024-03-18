@@ -61,8 +61,8 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
 9. Model, View dan Controller <br>
    • Model adalah kode yang bertugas untuk membuat pemodelan data dan dapat mengakses data dari database atau sumber lainnya. <br>
    • View adalah kode yang bertugas untuk membuat tampilan aplikasi. View berisi kode campuran dari PHP, HTML, JS, dan CSS. <br>
-   • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk mengambil atau memperbarui data, dan kemudian
-     mengirimkan respons yang sesuai ke view. <br>
+   • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk 
+     mengambil atau memperbarui data, dan kemudian mengirimkan respons yang sesuai ke view. <br> <br>
 
 10. Routing <br>
     • Ubah file Routes.php seperti pada gambar dibawah ini <br>
