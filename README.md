@@ -30,7 +30,7 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    a.	Install manual melalui website <br>
       •	Masuk ke website codeigniter.com kemudian pilih download <br>
       •	Pilih versi yang ingin anda gunakan, kemudian klik download <br>
-      • Kemudian extract berkas, dan masukkan semua folder yang telah di extract ke dalam folder (buat baaru) "belajar ci" <br>
+      • Kemudian extract berkas, dan masukkan semua folder yang telah di extract ke dalam folder (buat baru) "belajar ci" <br>
    b.	Install melalui composer <br>
       •	Jalankan laragon (Start) <br>
       •	Klik Terminal <br>
