@@ -33,6 +33,7 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
       •	Jalankan laragon (Start) <br>
       •	Klik Terminal <br>
       •	Kemudian tuliskan kode berikut <br>
+      ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/b3741e38-f32c-4479-a444-b7e7510ac13c)
 
 6.	Cara menjalankan framework setelah di install <br>
    
