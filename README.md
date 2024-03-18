@@ -64,3 +64,5 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    • View adalah kode yang bertugas untuk membuat tampilan aplikasi. View berisi kode campuran dari PHP, HTML, JS, dan CSS. <br>
    • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk mengambil atau memperbarui data, dan kemudian
      mengirimkan respons yang sesuai ke view. <br>
+9. Migrasi <br>
+   Buat file "belajar ci"
