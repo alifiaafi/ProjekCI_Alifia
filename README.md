@@ -39,11 +39,13 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
       •	Kemudian kita ubah root ke dalam project yang akan kita buat dengan menuliskan kode seperti dibawah ini <br>
       ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/f8ad40f0-944a-4035-a573-0ff251b56f6c) <br>
       •	Untuk mengetahui alamat localhost yang akan kita gunakan, maka kita tuliskan kode php spark serve. Untuk dibawah ini menggunakan alamat http://localhost:8080 <br>
-      ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/6a228469-c01e-4bca-92d6-453473f64805)
+      ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/6a228469-c01e-4bca-92d6-453473f64805) <br>
       •	Ketika tampilan website seperti gambar dibawah, maka kita sudah bisa mulai membuat website <br>
-      
+      ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/a1b9a178-66a9-43e7-a3e8-189e0d7fa0ed) <br> <br>
       
 6.	Cara menjalankan framework setelah di install <br>
+   Buka web browser dan ketikkan nama alamat localhost dari terminal tadi, yaitu http://localhost:8080 <br>
+   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/a1b9a178-66a9-43e7-a3e8-189e0d7fa0ed) <br> <br>
    
 8.	Model view dan controller <br>
 
