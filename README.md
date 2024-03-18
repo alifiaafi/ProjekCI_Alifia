@@ -10,11 +10,11 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
   
 2. Fungsi framework <br>
     •	**Mempercepat pembuatan website** <br>
-      Pengembang dapat menggunakan komponen-komponen yang sudah disediakan, sehingga tidak perlu menulis kode dari awal. <br>
+      Pengembang dapat menggunakan komponen-komponen yang sudah disediakan, sehingga tidak perlu menulis kode dari awal. <br> <br>
     •	**Meningkatkan keamanan** <br>
-      Framework dapat meningkatkan keamanan website karena beberapa framework yang modern sudah mengadopsi berbagai sistem keamanan seperti SQL injection, autentikasi, enskripsi, dan sebagainya. <br>
+      Framework dapat meningkatkan keamanan website karena beberapa framework yang modern sudah mengadopsi berbagai sistem keamanan seperti SQL injection, autentikasi, enskripsi, dan sebagainya. <br> <br>
     •	**Mengorganisir kode** <br>
-      Kode yang dituliskan menjadi lebih mudah dan terstruktur. <br>
+      Kode yang dituliskan menjadi lebih mudah dan terstruktur. <br> <br>
     •	**Mempermudah pemeliharaan dan perawatan website** <br>
       Perbaikan bug, maintenance menambah fitur dan meningkatkan keamanan website akan jadi lebih mudah karena kebanyakan framework sudah menggunakan pola arsitektur yang beragam. <br> <br>
 
@@ -28,7 +28,8 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
     
 5.	Cara Install CI (ada 2 cara) <br>
    a.	Install manual melalui website <br>
-   
+      •	Masuk ke website codeigniter.com kemudian pilih download <br>
+      •	Pilih versi yang ingin anda gunakan, kemudian klik download <br>
    b.	Install melalui composer <br>
       •	Jalankan laragon (Start) <br>
       •	Klik Terminal <br>
