@@ -53,8 +53,10 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    •	Isikan tabel tersebut <br>
    •	Buat file baru (NewsModel.php) di dalam folder Models <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/e0df4514-1213-4025-9507-842e34712c00) <br>
-   • Tambahkan fungsi getNews
+   • Tambahkan fungsi getNews <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/d7b354be-5bf2-4512-9488-3bf1306e972d) <br>
+   • Tambahkan kode seperti di bawah pada file Routes.php <br>
+   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/0cbba9e5-37e1-48b1-a7c2-aa286638e4db) <br>
 
 9. Model, View dan Controller <br>
    • Model adalah kode yang bertugas untuk membuat pemodelan data dan dapat mengakses data dari database atau sumber lainnya. <br>
