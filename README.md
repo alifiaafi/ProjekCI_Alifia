@@ -52,3 +52,5 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    •	Buat database dengan nama ci4tutorial <br>
    •	Buat tabel dengan nama news dengan 4 kolom (id, title, slug, dan body) <br>
    •	Isikan tabel tersebut <br>
+   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/3e2866a3-67ca-469b-92ab-982f94993872) <br>
+   •	Connect database dalam file .env
