@@ -65,6 +65,7 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
      mengirimkan respons yang sesuai ke view. <br>
 
 10. Routing <br>
-    
+    • Ubah file Routes.php seperti pada gambar dibawah ini <br>
+    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/0e2f3bf1-f371-4380-acff-cc838661f63b) <br>
     • Ini adalah hasil dari setting route <br>
-    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/12e72c4b-a771-4e4b-b3a8-51c31a921bb4)
+    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/12e72c4b-a771-4e4b-b3a8-51c31a921bb4) <br>
