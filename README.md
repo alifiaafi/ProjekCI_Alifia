@@ -30,6 +30,7 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    a.	Install manual melalui website <br>
       •	Masuk ke website codeigniter.com kemudian pilih download <br>
       •	Pilih versi yang ingin anda gunakan, kemudian klik download <br>
+      • Kemudian
    b.	Install melalui composer <br>
       •	Jalankan laragon (Start) <br>
       •	Klik Terminal <br>
@@ -57,3 +58,9 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/0e5121e3-efac-41bf-8098-4e645200c0af) <br>
    •	Buat file baru (NewsModel.php) di dalam folder Models <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/e0df4514-1213-4025-9507-842e34712c00) <br>
+
+8. Model <br>
+
+9. View <br>
+
+10. Controller <br>
