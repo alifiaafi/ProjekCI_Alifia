@@ -71,3 +71,5 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
     ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/b1d7bbcb-f620-4993-a7a7-01a7fecd8ba0) <br>
     • Ini adalah hasil dari setting route <br>
     ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/12e72c4b-a771-4e4b-b3a8-51c31a921bb4) <br>
+    • Buat file dan folder baru di dalam Views/template/header.php
+    
