@@ -64,4 +64,7 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk mengambil atau memperbarui data, dan kemudian
      mengirimkan respons yang sesuai ke view. <br>
 
-10. <br>
+10. Routing <br>
+    
+    • Ini adalah hasil dari setting route <br>
+    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/12e72c4b-a771-4e4b-b3a8-51c31a921bb4)
