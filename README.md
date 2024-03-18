@@ -47,9 +47,8 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
 6.	Cara menjalankan framework setelah di install <br>
    Buka web browser dan ketikkan nama alamat localhost dari terminal tadi, yaitu http://localhost:8080 <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/a1b9a178-66a9-43e7-a3e8-189e0d7fa0ed) <br> <br>
-   
-7.	Model view dan controller <br>
 
-8.	Controller dan routing <br>
-
-9.	Mengubah isi dari framework <br>
+7. Koneksi Database <br>
+   •	Buat database dengan nama ci4tutorial <br>
+   •	Buat tabel dengan nama news dengan 4 kolom (id, title, slug, dan body) <br>
+   •	Isikan tabel tersebut <br>
