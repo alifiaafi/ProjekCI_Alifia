@@ -22,14 +22,18 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
   **CodeIgniter** adalah suatu framework PHP yang digunakan untuk membangun sebuah website dengan cepat berbasis MVC (Model-View-Controller) <br> <br>
 
 4. Kelebihan CodeIgniter <br>
-    •	Size yang kecil (hanya berkisar MB)
+    •	Size yang kecil (hanya berkisar MB) <br>
     •	Fleksibel <br>
     •	Dapat dimodifikasi <br> <br>
     
 5.	Cara Install CI (ada 2 cara) <br>
-a.	Install manual melalui website <br>
-b.	Install melalui composer <br>
-6.	Cara menjalankan framework setelah di install <br>
-7.	Model view dan controller <br>
-8.	Controller dan routing <br>
-9.	Mengubah isi dari framework <br>
+   a.	Install manual melalui website <br>
+   b.	Install melalui composer <br>
+
+6.	Cara menjalankan framework setelah di install <br>4
+   
+8.	Model view dan controller <br>
+
+9.	Controller dan routing <br>
+
+10.	Mengubah isi dari framework <br>
