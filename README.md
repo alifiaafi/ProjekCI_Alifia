@@ -37,6 +37,9 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
       Untuk “belajarci” adalah nama project-root yang akan kita buat <br>
       •	Tunggu sampai proses instalasi selesai <br>
       •	Kemudian kita ubah root ke dalam project yang akan kita buat dengan menuliskan kode seperti dibawah ini <br>
+      ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/f8ad40f0-944a-4035-a573-0ff251b56f6c) <br>
+      •	Untuk mengetahui alamat localhost yang akan kita gunakan, maka kita tuliskan kode php spark serve. Untuk dibawah ini menggunakan alamat http://localhost:8080 <br>
+      
       
 6.	Cara menjalankan framework setelah di install <br>
    
