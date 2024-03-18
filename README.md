@@ -28,9 +28,13 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
     
 5.	Cara Install CI (ada 2 cara) <br>
    a.	Install manual melalui website <br>
+   
    b.	Install melalui composer <br>
+      •	Jalankan laragon (Start) <br>
+      •	Klik Terminal <br>
+      •	Kemudian tuliskan kode berikut <br>
 
-6.	Cara menjalankan framework setelah di install <br>4
+6.	Cara menjalankan framework setelah di install <br>
    
 8.	Model view dan controller <br>
 
