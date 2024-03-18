@@ -54,3 +54,6 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    •	Isikan tabel tersebut <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/3e2866a3-67ca-469b-92ab-982f94993872) <br>
    •	Connect database dalam file .env
+   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/07ea7e39-3058-4e21-9caf-89524af20d34) <br>
+   •	Buat file baru (NewsModel.php) di dalam folder Models <br>
+   
