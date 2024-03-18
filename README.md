@@ -60,5 +60,4 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk mengambil atau memperbarui data, dan kemudian
      mengirimkan respons yang sesuai ke view. <br>
 
-9. <br>     
-10.
+10. <br>
