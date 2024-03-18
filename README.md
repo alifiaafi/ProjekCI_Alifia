@@ -15,19 +15,21 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
       Kode yang dituliskan menjadi lebih mudah dan terstruktur. <br> <br>
     •	**Mempermudah pemeliharaan dan perawatan website** <br>
       Perbaikan bug, maintenance menambah fitur dan meningkatkan keamanan website akan jadi lebih mudah karena kebanyakan framework sudah menggunakan pola arsitektur yang beragam. <br> <br>
+      
 3. Pengertian CodeIgniter <br>
   **CodeIgniter** adalah suatu framework PHP yang digunakan untuk membangun sebuah website dengan cepat berbasis MVC (Model-View-Controller) <br> <br>
+  
 4. Kelebihan CodeIgniter <br>
     •	Size yang kecil (hanya berkisar MB) <br>
     •	Fleksibel <br>
     •	Dapat dimodifikasi <br> <br>
     
-5.	Cara Install CI (ada 2 cara) <br>
-   a.	Install manual melalui website <br>
+5.	Cara Install CI manual melalui website <br>
       •	Masuk ke website codeigniter.com kemudian pilih download <br>
       •	Pilih versi yang ingin anda gunakan, kemudian klik download <br>
-      • Kemudian extract berkas, dan masukkan semua folder yang telah di extract ke dalam folder (buat baru) "belajar ci" <br>
-   b.	Install melalui composer <br>
+      • Kemudian extract berkas, dan masukkan semua folder yang telah di extract ke dalam folder (buat baru) "belajar ci" <br> <br>
+      
+6.	Install melalui composer <br>
       •	Jalankan laragon (Start) <br>
       •	Klik Terminal <br>
       •	Kemudian tuliskan kode berikut <br>
@@ -41,26 +43,18 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
       •	Ketika tampilan website seperti gambar dibawah, maka kita sudah bisa mulai membuat website <br>
       ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/a1b9a178-66a9-43e7-a3e8-189e0d7fa0ed) <br> <br>
 
-6. Migrasi <br>
-   Buat file "belajar ci" <br>
-   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/09e4bb39-3359-43d6-b387-334e8c356697) <br> <br>
-
 7.	Cara menjalankan framework setelah di install <br>
-6.	Cara menjalankan framework setelah di install <br>
    Buka web browser dan ketikkan nama alamat localhost dari terminal tadi, yaitu http://localhost:8080 <br>
    ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/a1b9a178-66a9-43e7-a3e8-189e0d7fa0ed) <br> <br>
 
 8. Koneksi Database <br>
-7. Koneksi Database <br>
    •	Buat database dengan nama ci4tutorial <br>
    •	Buat tabel dengan nama news dengan 4 kolom (id, title, slug, dan body) <br>
    •	Isikan tabel tersebut <br>
-@@ -63,10 +59,10 @@ Disini saya akan menjelaskan apa yang sudah saya pelajari tentang **FRAMEWOROK D
    •	Buat file baru (NewsModel.php) di dalam folder Models <br>
-   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/e0df4514-1213-4025-9507-842e34712c00) <br>
+   ![image](https://github.com/alifiaafi/ProjekCI_Alifia/assets/134401933/e0df4514-1213-4025-9507-842e34712c00) <br> <br>
 
 9. Model, View dan Controller <br>
-8. Model, View dan Controller <br>
    • Model adalah kode yang bertugas untuk membuat pemodelan data dan dapat mengakses data dari database atau sumber lainnya. <br>
    • View adalah kode yang bertugas untuk membuat tampilan aplikasi. View berisi kode campuran dari PHP, HTML, JS, dan CSS. <br>
    • Controller adalah komponen yang bertanggung jawab untuk menerima permintaan dari pengguna, memproses permintaan tersebut, berinteraksi dengan model untuk mengambil atau memperbarui data, dan kemudian
